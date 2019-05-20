@@ -1,0 +1,1602 @@
+[
+    {
+        "loss/generator": 140351.1875,
+        "loss/critic": -171934.796875,
+        "FID": 392.74159384177824,
+        "epoch": 1,
+        "iteration": 600,
+        "elapsed_time": 114.90353075299936
+    },
+    {
+        "loss/generator": 453834.375,
+        "loss/critic": -436939.8125,
+        "FID": 403.2717156902146,
+        "epoch": 2,
+        "iteration": 1200,
+        "elapsed_time": 228.9330345779963
+    },
+    {
+        "loss/generator": 439485.21875,
+        "loss/critic": -423313.375,
+        "FID": 401.67284897150046,
+        "epoch": 3,
+        "iteration": 1800,
+        "elapsed_time": 344.0924461079994
+    },
+    {
+        "loss/generator": 427573.125,
+        "loss/critic": -411027.75,
+        "FID": 400.94434821712525,
+        "epoch": 4,
+        "iteration": 2400,
+        "elapsed_time": 456.6586021059993
+    },
+    {
+        "loss/generator": 332908.1875,
+        "loss/critic": -333498.21875,
+        "FID": 490.61915772231333,
+        "epoch": 5,
+        "iteration": 3000,
+        "elapsed_time": 637.7000539629953
+    },
+    {
+        "loss/generator": 184306.90625,
+        "loss/critic": -174613.46875,
+        "FID": 674.9009188064374,
+        "epoch": 6,
+        "iteration": 3600,
+        "elapsed_time": 818.5846281749982
+    },
+    {
+        "loss/generator": 86890.1171875,
+        "loss/critic": -80699.984375,
+        "FID": 674.9009188064374,
+        "epoch": 7,
+        "iteration": 4200,
+        "elapsed_time": 1010.5841540149995
+    },
+    {
+        "loss/generator": 37234.4140625,
+        "loss/critic": -33590.17578125,
+        "FID": 674.9009188064374,
+        "epoch": 8,
+        "iteration": 4800,
+        "elapsed_time": 1189.5624438899977
+    },
+    {
+        "loss/generator": 14683.21875,
+        "loss/critic": -12764.421875,
+        "FID": 674.9009188064374,
+        "epoch": 9,
+        "iteration": 5400,
+        "elapsed_time": 1380.3113171139994
+    },
+    {
+        "loss/generator": 5385.38330078125,
+        "loss/critic": -4555.123046875,
+        "FID": 674.9009188064374,
+        "epoch": 10,
+        "iteration": 6000,
+        "elapsed_time": 1545.8705334359984
+    },
+    {
+        "loss/generator": 1898.21240234375,
+        "loss/critic": -1610.8231201171875,
+        "FID": 674.9009188064374,
+        "epoch": 11,
+        "iteration": 6600,
+        "elapsed_time": 1722.662829529996
+    },
+    {
+        "loss/generator": 728.1686401367188,
+        "loss/critic": -577.8380737304688,
+        "FID": 674.9009188064374,
+        "epoch": 12,
+        "iteration": 7200,
+        "elapsed_time": 1924.498558868996
+    },
+    {
+        "loss/generator": 342.8354187011719,
+        "loss/critic": -207.03988647460938,
+        "FID": 674.9009188064374,
+        "epoch": 13,
+        "iteration": 7800,
+        "elapsed_time": 2092.271972388
+    },
+    {
+        "loss/generator": 187.22213745117188,
+        "loss/critic": -76.79450225830078,
+        "FID": 674.9009188064374,
+        "epoch": 14,
+        "iteration": 8400,
+        "elapsed_time": 2267.5607263469938
+    },
+    {
+        "loss/generator": 127.78877258300781,
+        "loss/critic": -29.01204490661621,
+        "FID": 674.9009188064374,
+        "epoch": 15,
+        "iteration": 9000,
+        "elapsed_time": 2447.396965808999
+    },
+    {
+        "loss/generator": 109.9892578125,
+        "loss/critic": -12.051591873168945,
+        "FID": 674.9009188064374,
+        "epoch": 16,
+        "iteration": 9600,
+        "elapsed_time": 2646.481328668997
+    },
+    {
+        "loss/generator": 115.83647155761719,
+        "loss/critic": -19.325807571411133,
+        "FID": 674.9009188064374,
+        "epoch": 17,
+        "iteration": 10200,
+        "elapsed_time": 2831.068709553998
+    },
+    {
+        "loss/generator": 111.93222045898438,
+        "loss/critic": -143.06715393066406,
+        "FID": 674.9009188064374,
+        "epoch": 18,
+        "iteration": 10800,
+        "elapsed_time": 3022.5467229119968
+    },
+    {
+        "loss/generator": 134.3024444580078,
+        "loss/critic": -302.1827392578125,
+        "FID": 674.3496311019373,
+        "epoch": 19,
+        "iteration": 11400,
+        "elapsed_time": 3218.467649913997
+    },
+    {
+        "loss/generator": 127.63957214355469,
+        "loss/critic": -406.1673583984375,
+        "FID": 672.9025910593668,
+        "epoch": 20,
+        "iteration": 12000,
+        "elapsed_time": 3406.403778383996
+    },
+    {
+        "loss/generator": 129.29702758789062,
+        "loss/critic": -481.9532165527344,
+        "FID": 626.473483203696,
+        "epoch": 21,
+        "iteration": 12600,
+        "elapsed_time": 3591.682482352997
+    },
+    {
+        "loss/generator": 94.92234802246094,
+        "loss/critic": -505.6329040527344,
+        "FID": 594.7495265524918,
+        "epoch": 22,
+        "iteration": 13200,
+        "elapsed_time": 3751.413900052001
+    },
+    {
+        "loss/generator": 83.70095825195312,
+        "loss/critic": -486.2934265136719,
+        "FID": 516.1096226432433,
+        "epoch": 23,
+        "iteration": 13800,
+        "elapsed_time": 3965.0058281999954
+    },
+    {
+        "loss/generator": 78.55272674560547,
+        "loss/critic": -469.82879638671875,
+        "FID": 464.96522311439867,
+        "epoch": 24,
+        "iteration": 14400,
+        "elapsed_time": 4149.931440551998
+    },
+    {
+        "loss/generator": 60.20561218261719,
+        "loss/critic": -451.0013122558594,
+        "FID": 417.0546461822332,
+        "epoch": 25,
+        "iteration": 15000,
+        "elapsed_time": 4331.5188763339975
+    },
+    {
+        "loss/generator": 36.982181549072266,
+        "loss/critic": -432.40185546875,
+        "FID": 351.5699221049674,
+        "epoch": 26,
+        "iteration": 15600,
+        "elapsed_time": 4550.288024433998
+    },
+    {
+        "loss/generator": 25.431312561035156,
+        "loss/critic": -413.79217529296875,
+        "FID": 311.43938463541537,
+        "epoch": 27,
+        "iteration": 16200,
+        "elapsed_time": 4751.254586782001
+    },
+    {
+        "loss/generator": 18.252201080322266,
+        "loss/critic": -396.8110656738281,
+        "FID": 305.1193560554808,
+        "epoch": 28,
+        "iteration": 16800,
+        "elapsed_time": 4940.629846955999
+    },
+    {
+        "loss/generator": 5.3149189949035645,
+        "loss/critic": -381.7427978515625,
+        "FID": 316.10351749185975,
+        "epoch": 29,
+        "iteration": 17400,
+        "elapsed_time": 5138.3162579349955
+    },
+    {
+        "loss/generator": -10.768486976623535,
+        "loss/critic": -369.3878173828125,
+        "FID": 332.20362619824886,
+        "epoch": 30,
+        "iteration": 18000,
+        "elapsed_time": 5329.664537040997
+    },
+    {
+        "loss/generator": -29.2285099029541,
+        "loss/critic": -359.03668212890625,
+        "FID": 326.70905977764994,
+        "epoch": 31,
+        "iteration": 18600,
+        "elapsed_time": 5528.482735662998
+    },
+    {
+        "loss/generator": -42.179710388183594,
+        "loss/critic": -350.0562744140625,
+        "FID": 320.9990724454618,
+        "epoch": 32,
+        "iteration": 19200,
+        "elapsed_time": 5728.415310131997
+    },
+    {
+        "loss/generator": -57.56980514526367,
+        "loss/critic": -341.1092834472656,
+        "FID": 313.08369779920884,
+        "epoch": 33,
+        "iteration": 19800,
+        "elapsed_time": 5923.913838566994
+    },
+    {
+        "loss/generator": -73.42096710205078,
+        "loss/critic": -331.98358154296875,
+        "FID": 303.1018632858033,
+        "epoch": 34,
+        "iteration": 20400,
+        "elapsed_time": 6131.271291679994
+    },
+    {
+        "loss/generator": -85.80374145507812,
+        "loss/critic": -325.4184265136719,
+        "FID": 292.7389953632944,
+        "epoch": 35,
+        "iteration": 21000,
+        "elapsed_time": 6333.958120440999
+    },
+    {
+        "loss/generator": -96.95574188232422,
+        "loss/critic": -320.6758117675781,
+        "FID": 281.40784296544274,
+        "epoch": 36,
+        "iteration": 21600,
+        "elapsed_time": 6528.929051916995
+    },
+    {
+        "loss/generator": -111.49114227294922,
+        "loss/critic": -315.3951416015625,
+        "FID": 275.43980556155395,
+        "epoch": 37,
+        "iteration": 22200,
+        "elapsed_time": 6730.987535235996
+    },
+    {
+        "loss/generator": -123.61289978027344,
+        "loss/critic": -310.57501220703125,
+        "FID": 267.998123036628,
+        "epoch": 38,
+        "iteration": 22800,
+        "elapsed_time": 6917.708669239997
+    },
+    {
+        "loss/generator": -133.39324951171875,
+        "loss/critic": -306.4432373046875,
+        "FID": 264.85650531821113,
+        "epoch": 39,
+        "iteration": 23400,
+        "elapsed_time": 7111.5989908679985
+    },
+    {
+        "loss/generator": -145.05972290039062,
+        "loss/critic": -303.3136291503906,
+        "FID": 262.4600138492394,
+        "epoch": 40,
+        "iteration": 24000,
+        "elapsed_time": 7306.836705005
+    },
+    {
+        "loss/generator": -151.50579833984375,
+        "loss/critic": -300.179443359375,
+        "FID": 261.4421597392496,
+        "epoch": 41,
+        "iteration": 24600,
+        "elapsed_time": 7520.685603892998
+    },
+    {
+        "loss/generator": -161.272705078125,
+        "loss/critic": -296.6818542480469,
+        "FID": 260.61366384897576,
+        "epoch": 42,
+        "iteration": 25200,
+        "elapsed_time": 7729.478016488996
+    },
+    {
+        "loss/generator": -163.33216857910156,
+        "loss/critic": -294.91192626953125,
+        "FID": 260.86724935551604,
+        "epoch": 43,
+        "iteration": 25800,
+        "elapsed_time": 7930.929097121996
+    },
+    {
+        "loss/generator": -167.09378051757812,
+        "loss/critic": -294.15753173828125,
+        "FID": 259.2639148130256,
+        "epoch": 44,
+        "iteration": 26400,
+        "elapsed_time": 8114.366974434997
+    },
+    {
+        "loss/generator": -173.2910919189453,
+        "loss/critic": -295.4377136230469,
+        "FID": 262.56604672671676,
+        "epoch": 45,
+        "iteration": 27000,
+        "elapsed_time": 8320.183967655
+    },
+    {
+        "loss/generator": -178.0381317138672,
+        "loss/critic": -297.3354797363281,
+        "FID": 264.8599996866799,
+        "epoch": 46,
+        "iteration": 27600,
+        "elapsed_time": 8496.871269951
+    },
+    {
+        "loss/generator": -186.96499633789062,
+        "loss/critic": -300.6518859863281,
+        "FID": 264.03888803025814,
+        "epoch": 47,
+        "iteration": 28200,
+        "elapsed_time": 8683.947864548994
+    },
+    {
+        "loss/generator": -194.13088989257812,
+        "loss/critic": -305.50518798828125,
+        "FID": 266.6113025675005,
+        "epoch": 48,
+        "iteration": 28800,
+        "elapsed_time": 8878.411385895997
+    },
+    {
+        "loss/generator": -205.57437133789062,
+        "loss/critic": -314.5862731933594,
+        "FID": 266.78375667045947,
+        "epoch": 49,
+        "iteration": 29400,
+        "elapsed_time": 9061.675546041995
+    },
+    {
+        "loss/generator": -218.658203125,
+        "loss/critic": -326.38482666015625,
+        "FID": 267.78772384300237,
+        "epoch": 50,
+        "iteration": 30000,
+        "elapsed_time": 9268.786529621
+    },
+    {
+        "loss/generator": -233.32778930664062,
+        "loss/critic": -343.81365966796875,
+        "FID": 269.2857408171294,
+        "epoch": 51,
+        "iteration": 30600,
+        "elapsed_time": 9468.754929865994
+    },
+    {
+        "loss/generator": -248.8212890625,
+        "loss/critic": -367.8136901855469,
+        "FID": 272.41160368646365,
+        "epoch": 52,
+        "iteration": 31200,
+        "elapsed_time": 9645.958275461999
+    },
+    {
+        "loss/generator": -243.20399475097656,
+        "loss/critic": -375.6455078125,
+        "FID": 276.6252739585241,
+        "epoch": 53,
+        "iteration": 31800,
+        "elapsed_time": 9826.937901986996
+    },
+    {
+        "loss/generator": -235.44671630859375,
+        "loss/critic": -365.9915466308594,
+        "FID": 278.7290900906222,
+        "epoch": 54,
+        "iteration": 32400,
+        "elapsed_time": 10027.870734806995
+    },
+    {
+        "loss/generator": -233.20741271972656,
+        "loss/critic": -355.8105163574219,
+        "FID": 278.4245252735495,
+        "epoch": 55,
+        "iteration": 33000,
+        "elapsed_time": 10217.969855717995
+    },
+    {
+        "loss/generator": -232.79141235351562,
+        "loss/critic": -345.4521484375,
+        "FID": 280.17639512935034,
+        "epoch": 56,
+        "iteration": 33600,
+        "elapsed_time": 10417.618965025998
+    },
+    {
+        "loss/generator": -221.53028869628906,
+        "loss/critic": -334.82928466796875,
+        "FID": 276.84660559544085,
+        "epoch": 57,
+        "iteration": 34200,
+        "elapsed_time": 10633.403648902997
+    },
+    {
+        "loss/generator": -210.85076904296875,
+        "loss/critic": -325.2417297363281,
+        "FID": 274.4438689981606,
+        "epoch": 58,
+        "iteration": 34800,
+        "elapsed_time": 10817.406997742
+    },
+    {
+        "loss/generator": -199.4118194580078,
+        "loss/critic": -315.9202880859375,
+        "FID": 275.6588319416936,
+        "epoch": 59,
+        "iteration": 35400,
+        "elapsed_time": 11025.210313920994
+    },
+    {
+        "loss/generator": -188.9704132080078,
+        "loss/critic": -307.3071594238281,
+        "FID": 274.2489631542825,
+        "epoch": 60,
+        "iteration": 36000,
+        "elapsed_time": 11231.443207593999
+    },
+    {
+        "loss/generator": -180.42434692382812,
+        "loss/critic": -299.1097717285156,
+        "FID": 273.93991793882014,
+        "epoch": 61,
+        "iteration": 36600,
+        "elapsed_time": 11440.266162009997
+    },
+    {
+        "loss/generator": -172.49713134765625,
+        "loss/critic": -292.45037841796875,
+        "FID": 273.02928739115765,
+        "epoch": 62,
+        "iteration": 37200,
+        "elapsed_time": 11647.930273070997
+    },
+    {
+        "loss/generator": -161.9646453857422,
+        "loss/critic": -285.7568359375,
+        "FID": 274.4110437227611,
+        "epoch": 63,
+        "iteration": 37800,
+        "elapsed_time": 11823.218640879
+    },
+    {
+        "loss/generator": -153.29888916015625,
+        "loss/critic": -279.7737121582031,
+        "FID": 272.85273883249374,
+        "epoch": 64,
+        "iteration": 38400,
+        "elapsed_time": 12014.657344624
+    },
+    {
+        "loss/generator": -146.8580780029297,
+        "loss/critic": -274.4245300292969,
+        "FID": 272.0260965681342,
+        "epoch": 65,
+        "iteration": 39000,
+        "elapsed_time": 12209.545567274996
+    },
+    {
+        "loss/generator": -136.95359802246094,
+        "loss/critic": -269.8039245605469,
+        "FID": 272.27643303452817,
+        "epoch": 66,
+        "iteration": 39600,
+        "elapsed_time": 12396.123728448998
+    },
+    {
+        "loss/generator": -130.55747985839844,
+        "loss/critic": -264.8846740722656,
+        "FID": 272.99739712700966,
+        "epoch": 67,
+        "iteration": 40200,
+        "elapsed_time": 12597.584483173
+    },
+    {
+        "loss/generator": -123.35384368896484,
+        "loss/critic": -260.1998291015625,
+        "FID": 273.6980911954817,
+        "epoch": 68,
+        "iteration": 40800,
+        "elapsed_time": 12790.983043130997
+    },
+    {
+        "loss/generator": -112.77320861816406,
+        "loss/critic": -255.97726440429688,
+        "FID": 271.5207981889485,
+        "epoch": 69,
+        "iteration": 41400,
+        "elapsed_time": 13002.427591836997
+    },
+    {
+        "loss/generator": -110.68195343017578,
+        "loss/critic": -251.62319946289062,
+        "FID": 272.93640332948416,
+        "epoch": 70,
+        "iteration": 42000,
+        "elapsed_time": 13211.294532294996
+    },
+    {
+        "loss/generator": -105.71741485595703,
+        "loss/critic": -247.2823944091797,
+        "FID": 272.3579864460828,
+        "epoch": 71,
+        "iteration": 42600,
+        "elapsed_time": 13401.141830556
+    },
+    {
+        "loss/generator": -98.52954864501953,
+        "loss/critic": -243.0553436279297,
+        "FID": 269.42685827566646,
+        "epoch": 72,
+        "iteration": 43200,
+        "elapsed_time": 13601.014610756996
+    },
+    {
+        "loss/generator": -96.34996032714844,
+        "loss/critic": -239.4921417236328,
+        "FID": 271.49029941993456,
+        "epoch": 73,
+        "iteration": 43800,
+        "elapsed_time": 13786.223529480994
+    },
+    {
+        "loss/generator": -96.61453247070312,
+        "loss/critic": -235.50799560546875,
+        "FID": 269.35150579678714,
+        "epoch": 74,
+        "iteration": 44400,
+        "elapsed_time": 13933.781589936996
+    },
+    {
+        "loss/generator": -91.45342254638672,
+        "loss/critic": -231.94366455078125,
+        "FID": 270.42341527356723,
+        "epoch": 75,
+        "iteration": 45000,
+        "elapsed_time": 14070.651778367996
+    },
+    {
+        "loss/generator": -90.6465072631836,
+        "loss/critic": -228.42652893066406,
+        "FID": 268.09287397444405,
+        "epoch": 76,
+        "iteration": 45600,
+        "elapsed_time": 14218.096777397994
+    },
+    {
+        "loss/generator": -88.66918182373047,
+        "loss/critic": -225.4151611328125,
+        "FID": 271.40598598354296,
+        "epoch": 77,
+        "iteration": 46200,
+        "elapsed_time": 14361.617402210999
+    },
+    {
+        "loss/generator": -88.83393859863281,
+        "loss/critic": -222.49594116210938,
+        "FID": 271.28670306170443,
+        "epoch": 78,
+        "iteration": 46800,
+        "elapsed_time": 14508.336385759998
+    },
+    {
+        "loss/generator": -85.51715850830078,
+        "loss/critic": -219.95945739746094,
+        "FID": 268.31368248992374,
+        "epoch": 79,
+        "iteration": 47400,
+        "elapsed_time": 14648.398749599
+    },
+    {
+        "loss/generator": -77.75472259521484,
+        "loss/critic": -217.31288146972656,
+        "FID": 269.966060112958,
+        "epoch": 80,
+        "iteration": 48000,
+        "elapsed_time": 14791.837221226
+    },
+    {
+        "loss/generator": -79.3108901977539,
+        "loss/critic": -215.24380493164062,
+        "FID": 269.9889720640043,
+        "epoch": 81,
+        "iteration": 48600,
+        "elapsed_time": 14932.754093628995
+    },
+    {
+        "loss/generator": -73.61981964111328,
+        "loss/critic": -213.14881896972656,
+        "FID": 270.4042220204755,
+        "epoch": 82,
+        "iteration": 49200,
+        "elapsed_time": 15072.051696618
+    },
+    {
+        "loss/generator": -68.50586700439453,
+        "loss/critic": -210.66880798339844,
+        "FID": 271.2312036467702,
+        "epoch": 83,
+        "iteration": 49800,
+        "elapsed_time": 15225.566118869
+    },
+    {
+        "loss/generator": -69.55472564697266,
+        "loss/critic": -208.93504333496094,
+        "FID": 269.12620236653845,
+        "epoch": 84,
+        "iteration": 50400,
+        "elapsed_time": 15347.747333397994
+    },
+    {
+        "loss/generator": -69.28929138183594,
+        "loss/critic": -206.50587463378906,
+        "FID": 272.70939105640747,
+        "epoch": 85,
+        "iteration": 51000,
+        "elapsed_time": 15468.250750745996
+    },
+    {
+        "loss/generator": -65.89407348632812,
+        "loss/critic": -204.35508728027344,
+        "FID": 270.52426887158595,
+        "epoch": 86,
+        "iteration": 51600,
+        "elapsed_time": 15589.884577034994
+    },
+    {
+        "loss/generator": -66.80810546875,
+        "loss/critic": -202.31112670898438,
+        "FID": 267.377218299796,
+        "epoch": 87,
+        "iteration": 52200,
+        "elapsed_time": 15711.721283665
+    },
+    {
+        "loss/generator": -64.6419906616211,
+        "loss/critic": -200.2503204345703,
+        "FID": 269.23490720785605,
+        "epoch": 88,
+        "iteration": 52800,
+        "elapsed_time": 15834.619885993001
+    },
+    {
+        "loss/generator": -61.4532356262207,
+        "loss/critic": -198.10809326171875,
+        "FID": 267.5737443035253,
+        "epoch": 89,
+        "iteration": 53400,
+        "elapsed_time": 15955.300387288997
+    },
+    {
+        "loss/generator": -61.422080993652344,
+        "loss/critic": -196.28724670410156,
+        "FID": 268.09131181677276,
+        "epoch": 90,
+        "iteration": 54000,
+        "elapsed_time": 16078.649890529
+    },
+    {
+        "loss/generator": -57.96187210083008,
+        "loss/critic": -193.86351013183594,
+        "FID": 270.3817876078674,
+        "epoch": 91,
+        "iteration": 54600,
+        "elapsed_time": 16199.417345343994
+    },
+    {
+        "loss/generator": -61.943702697753906,
+        "loss/critic": -192.48866271972656,
+        "FID": 267.5605863678321,
+        "epoch": 92,
+        "iteration": 55200,
+        "elapsed_time": 16320.811005769996
+    },
+    {
+        "loss/generator": -60.80072784423828,
+        "loss/critic": -190.67083740234375,
+        "FID": 269.8342459141703,
+        "epoch": 93,
+        "iteration": 55800,
+        "elapsed_time": 16441.841279016997
+    },
+    {
+        "loss/generator": -64.71929168701172,
+        "loss/critic": -189.224609375,
+        "FID": 270.21772556186295,
+        "epoch": 94,
+        "iteration": 56400,
+        "elapsed_time": 16563.437692763
+    },
+    {
+        "loss/generator": -63.9315071105957,
+        "loss/critic": -188.02249145507812,
+        "FID": 270.29921181338966,
+        "epoch": 95,
+        "iteration": 57000,
+        "elapsed_time": 16684.974563020995
+    },
+    {
+        "loss/generator": -65.03751373291016,
+        "loss/critic": -186.59559631347656,
+        "FID": 269.58219200184186,
+        "epoch": 96,
+        "iteration": 57600,
+        "elapsed_time": 16805.516073146
+    },
+    {
+        "loss/generator": -66.65709686279297,
+        "loss/critic": -185.6675262451172,
+        "FID": 268.9458745706527,
+        "epoch": 97,
+        "iteration": 58200,
+        "elapsed_time": 16927.816663451995
+    },
+    {
+        "loss/generator": -67.8540267944336,
+        "loss/critic": -184.453857421875,
+        "FID": 267.19217725387387,
+        "epoch": 98,
+        "iteration": 58800,
+        "elapsed_time": 17050.371307180998
+    },
+    {
+        "loss/generator": -70.21206665039062,
+        "loss/critic": -183.09982299804688,
+        "FID": 271.4177054383145,
+        "epoch": 99,
+        "iteration": 59400,
+        "elapsed_time": 17172.434732276
+    },
+    {
+        "loss/generator": -69.72428131103516,
+        "loss/critic": -182.09716796875,
+        "FID": 269.66457083943965,
+        "epoch": 100,
+        "iteration": 60000,
+        "elapsed_time": 17295.070148831
+    },
+    {
+        "loss/generator": -71.86149597167969,
+        "loss/critic": -181.24893188476562,
+        "FID": 269.71986986899634,
+        "epoch": 101,
+        "iteration": 60600,
+        "elapsed_time": 17417.310228158
+    },
+    {
+        "loss/generator": -70.23279571533203,
+        "loss/critic": -179.7406005859375,
+        "FID": 270.73811112865826,
+        "epoch": 102,
+        "iteration": 61200,
+        "elapsed_time": 17539.354434349996
+    },
+    {
+        "loss/generator": -68.31470489501953,
+        "loss/critic": -178.42562866210938,
+        "FID": 266.77565101870084,
+        "epoch": 103,
+        "iteration": 61800,
+        "elapsed_time": 17661.434307183998
+    },
+    {
+        "loss/generator": -69.59220886230469,
+        "loss/critic": -177.28709411621094,
+        "FID": 268.3667187744866,
+        "epoch": 104,
+        "iteration": 62400,
+        "elapsed_time": 17783.112039688
+    },
+    {
+        "loss/generator": -66.97502136230469,
+        "loss/critic": -176.4112091064453,
+        "FID": 270.90711255668776,
+        "epoch": 105,
+        "iteration": 63000,
+        "elapsed_time": 17904.578113437994
+    },
+    {
+        "loss/generator": -66.96139526367188,
+        "loss/critic": -175.32762145996094,
+        "FID": 267.6600163191195,
+        "epoch": 106,
+        "iteration": 63600,
+        "elapsed_time": 18028.383249406994
+    },
+    {
+        "loss/generator": -69.73177337646484,
+        "loss/critic": -174.45347595214844,
+        "FID": 269.58792138543356,
+        "epoch": 107,
+        "iteration": 64200,
+        "elapsed_time": 18152.293866406995
+    },
+    {
+        "loss/generator": -66.57201385498047,
+        "loss/critic": -173.36456298828125,
+        "FID": 270.21719145778195,
+        "epoch": 108,
+        "iteration": 64800,
+        "elapsed_time": 18276.583033876
+    },
+    {
+        "loss/generator": -67.68663024902344,
+        "loss/critic": -172.61273193359375,
+        "FID": 270.25798640676624,
+        "epoch": 109,
+        "iteration": 65400,
+        "elapsed_time": 18398.359798321995
+    },
+    {
+        "loss/generator": -70.29052734375,
+        "loss/critic": -171.84619140625,
+        "FID": 270.77556317964945,
+        "epoch": 110,
+        "iteration": 66000,
+        "elapsed_time": 18519.352047789995
+    },
+    {
+        "loss/generator": -66.88143920898438,
+        "loss/critic": -171.08807373046875,
+        "FID": 271.70265566815067,
+        "epoch": 111,
+        "iteration": 66600,
+        "elapsed_time": 18641.080692432995
+    },
+    {
+        "loss/generator": -71.36032104492188,
+        "loss/critic": -170.230712890625,
+        "FID": 270.17364363231275,
+        "epoch": 112,
+        "iteration": 67200,
+        "elapsed_time": 18763.433742939
+    },
+    {
+        "loss/generator": -72.34213256835938,
+        "loss/critic": -169.52420043945312,
+        "FID": 271.48399442476085,
+        "epoch": 113,
+        "iteration": 67800,
+        "elapsed_time": 18885.946206700995
+    },
+    {
+        "loss/generator": -75.747802734375,
+        "loss/critic": -168.59893798828125,
+        "FID": 272.6078687143488,
+        "epoch": 114,
+        "iteration": 68400,
+        "elapsed_time": 19007.679546144995
+    },
+    {
+        "loss/generator": -75.19923400878906,
+        "loss/critic": -167.64981079101562,
+        "FID": 270.2970254318069,
+        "epoch": 115,
+        "iteration": 69000,
+        "elapsed_time": 19128.748626239998
+    },
+    {
+        "loss/generator": -72.96619415283203,
+        "loss/critic": -167.36099243164062,
+        "FID": 270.0934724237279,
+        "epoch": 116,
+        "iteration": 69600,
+        "elapsed_time": 19251.65774722
+    },
+    {
+        "loss/generator": -76.52909851074219,
+        "loss/critic": -166.37432861328125,
+        "FID": 272.6319478555519,
+        "epoch": 117,
+        "iteration": 70200,
+        "elapsed_time": 19373.846431651
+    },
+    {
+        "loss/generator": -79.12330627441406,
+        "loss/critic": -165.5330352783203,
+        "FID": 272.8976891293367,
+        "epoch": 118,
+        "iteration": 70800,
+        "elapsed_time": 19497.024460559995
+    },
+    {
+        "loss/generator": -79.95403289794922,
+        "loss/critic": -164.87432861328125,
+        "FID": 270.16376553015243,
+        "epoch": 119,
+        "iteration": 71400,
+        "elapsed_time": 19618.780082913
+    },
+    {
+        "loss/generator": -81.1266860961914,
+        "loss/critic": -164.03707885742188,
+        "FID": 273.1875152217834,
+        "epoch": 120,
+        "iteration": 72000,
+        "elapsed_time": 19739.141055843
+    },
+    {
+        "loss/generator": -79.30990600585938,
+        "loss/critic": -163.54913330078125,
+        "FID": 271.71849352523896,
+        "epoch": 121,
+        "iteration": 72600,
+        "elapsed_time": 19860.962734041
+    },
+    {
+        "loss/generator": -78.05733489990234,
+        "loss/critic": -162.78085327148438,
+        "FID": 271.38929823893454,
+        "epoch": 122,
+        "iteration": 73200,
+        "elapsed_time": 19982.302110015997
+    },
+    {
+        "loss/generator": -75.12641143798828,
+        "loss/critic": -161.93292236328125,
+        "FID": 272.40634104179134,
+        "epoch": 123,
+        "iteration": 73800,
+        "elapsed_time": 20104.204866506996
+    },
+    {
+        "loss/generator": -75.60144805908203,
+        "loss/critic": -161.27552795410156,
+        "FID": 274.68079488182167,
+        "epoch": 124,
+        "iteration": 74400,
+        "elapsed_time": 20225.980552994
+    },
+    {
+        "loss/generator": -74.1943359375,
+        "loss/critic": -160.82196044921875,
+        "FID": 271.28730547320333,
+        "epoch": 125,
+        "iteration": 75000,
+        "elapsed_time": 20346.801071666
+    },
+    {
+        "loss/generator": -76.11164855957031,
+        "loss/critic": -160.3102569580078,
+        "FID": 269.89834817074944,
+        "epoch": 126,
+        "iteration": 75600,
+        "elapsed_time": 20468.275689074
+    },
+    {
+        "loss/generator": -76.10400390625,
+        "loss/critic": -159.55833435058594,
+        "FID": 274.1449041753223,
+        "epoch": 127,
+        "iteration": 76200,
+        "elapsed_time": 20589.452964794997
+    },
+    {
+        "loss/generator": -73.7057113647461,
+        "loss/critic": -159.1172332763672,
+        "FID": 272.11125232441634,
+        "epoch": 128,
+        "iteration": 76800,
+        "elapsed_time": 20710.207754837997
+    },
+    {
+        "loss/generator": -73.2214126586914,
+        "loss/critic": -158.91973876953125,
+        "FID": 272.9387291199669,
+        "epoch": 129,
+        "iteration": 77400,
+        "elapsed_time": 20831.497417421
+    },
+    {
+        "loss/generator": -73.85172271728516,
+        "loss/critic": -158.4640655517578,
+        "FID": 272.4450390278191,
+        "epoch": 130,
+        "iteration": 78000,
+        "elapsed_time": 20953.709634859
+    },
+    {
+        "loss/generator": -69.4154281616211,
+        "loss/critic": -158.02503967285156,
+        "FID": 272.18014500926927,
+        "epoch": 131,
+        "iteration": 78600,
+        "elapsed_time": 21076.598417404
+    },
+    {
+        "loss/generator": -70.52452850341797,
+        "loss/critic": -157.67059326171875,
+        "FID": 272.9028552740542,
+        "epoch": 132,
+        "iteration": 79200,
+        "elapsed_time": 21198.318801857
+    },
+    {
+        "loss/generator": -72.0475845336914,
+        "loss/critic": -157.42481994628906,
+        "FID": 272.88214079722496,
+        "epoch": 133,
+        "iteration": 79800,
+        "elapsed_time": 21320.742716238994
+    },
+    {
+        "loss/generator": -68.92161560058594,
+        "loss/critic": -156.77247619628906,
+        "FID": 273.6175598906283,
+        "epoch": 134,
+        "iteration": 80400,
+        "elapsed_time": 21442.336273868
+    },
+    {
+        "loss/generator": -70.77071380615234,
+        "loss/critic": -156.7506866455078,
+        "FID": 271.0138674394606,
+        "epoch": 135,
+        "iteration": 81000,
+        "elapsed_time": 21564.953627521994
+    },
+    {
+        "loss/generator": -69.27869415283203,
+        "loss/critic": -156.23468017578125,
+        "FID": 274.271309149583,
+        "epoch": 136,
+        "iteration": 81600,
+        "elapsed_time": 21687.833945209
+    },
+    {
+        "loss/generator": -67.01528930664062,
+        "loss/critic": -155.63037109375,
+        "FID": 269.7155646573575,
+        "epoch": 137,
+        "iteration": 82200,
+        "elapsed_time": 21810.673542633995
+    },
+    {
+        "loss/generator": -67.4122085571289,
+        "loss/critic": -155.02011108398438,
+        "FID": 273.1946075822116,
+        "epoch": 138,
+        "iteration": 82800,
+        "elapsed_time": 21933.399076866997
+    },
+    {
+        "loss/generator": -68.26319885253906,
+        "loss/critic": -154.80325317382812,
+        "FID": 272.0322736115325,
+        "epoch": 139,
+        "iteration": 83400,
+        "elapsed_time": 22055.307288671
+    },
+    {
+        "loss/generator": -66.4386215209961,
+        "loss/critic": -154.51223754882812,
+        "FID": 272.22008032358644,
+        "epoch": 140,
+        "iteration": 84000,
+        "elapsed_time": 22178.893590563
+    },
+    {
+        "loss/generator": -66.47161102294922,
+        "loss/critic": -154.2065887451172,
+        "FID": 274.3207395457409,
+        "epoch": 141,
+        "iteration": 84600,
+        "elapsed_time": 22299.601142896994
+    },
+    {
+        "loss/generator": -64.93718719482422,
+        "loss/critic": -154.1226806640625,
+        "FID": 275.7608683695918,
+        "epoch": 142,
+        "iteration": 85200,
+        "elapsed_time": 22420.573100073998
+    },
+    {
+        "loss/generator": -62.113956451416016,
+        "loss/critic": -153.60772705078125,
+        "FID": 272.464938841649,
+        "epoch": 143,
+        "iteration": 85800,
+        "elapsed_time": 22542.583186683994
+    },
+    {
+        "loss/generator": -63.66658020019531,
+        "loss/critic": -153.775146484375,
+        "FID": 272.1202705220776,
+        "epoch": 144,
+        "iteration": 86400,
+        "elapsed_time": 22664.470574581996
+    },
+    {
+        "loss/generator": -59.250526428222656,
+        "loss/critic": -153.79052734375,
+        "FID": 271.94014273810706,
+        "epoch": 145,
+        "iteration": 87000,
+        "elapsed_time": 22785.836042388
+    },
+    {
+        "loss/generator": -57.69622039794922,
+        "loss/critic": -153.77020263671875,
+        "FID": 270.94542633085587,
+        "epoch": 146,
+        "iteration": 87600,
+        "elapsed_time": 22906.785901060997
+    },
+    {
+        "loss/generator": -56.82571029663086,
+        "loss/critic": -153.81610107421875,
+        "FID": 273.3860192880395,
+        "epoch": 147,
+        "iteration": 88200,
+        "elapsed_time": 23027.533120804997
+    },
+    {
+        "loss/generator": -54.39347457885742,
+        "loss/critic": -153.44346618652344,
+        "FID": 271.66062019974106,
+        "epoch": 148,
+        "iteration": 88800,
+        "elapsed_time": 23148.938184376
+    },
+    {
+        "loss/generator": -53.37145233154297,
+        "loss/critic": -153.4163818359375,
+        "FID": 272.5507247473329,
+        "epoch": 149,
+        "iteration": 89400,
+        "elapsed_time": 23271.157045934997
+    },
+    {
+        "loss/generator": -54.134559631347656,
+        "loss/critic": -152.7764129638672,
+        "FID": 271.31583649078595,
+        "epoch": 150,
+        "iteration": 90000,
+        "elapsed_time": 23391.541456834
+    },
+    {
+        "loss/generator": -51.45448303222656,
+        "loss/critic": -152.57228088378906,
+        "FID": 273.36970203875205,
+        "epoch": 151,
+        "iteration": 90600,
+        "elapsed_time": 23512.3780397
+    },
+    {
+        "loss/generator": -52.41975021362305,
+        "loss/critic": -151.94869995117188,
+        "FID": 270.21064276407566,
+        "epoch": 152,
+        "iteration": 91200,
+        "elapsed_time": 23632.879324481
+    },
+    {
+        "loss/generator": -54.80672073364258,
+        "loss/critic": -151.74200439453125,
+        "FID": 273.88470061056904,
+        "epoch": 153,
+        "iteration": 91800,
+        "elapsed_time": 23755.428608033995
+    },
+    {
+        "loss/generator": -51.02506637573242,
+        "loss/critic": -151.21670532226562,
+        "FID": 271.48626168209256,
+        "epoch": 154,
+        "iteration": 92400,
+        "elapsed_time": 23876.45895046
+    },
+    {
+        "loss/generator": -49.195030212402344,
+        "loss/critic": -150.94384765625,
+        "FID": 269.65626013525076,
+        "epoch": 155,
+        "iteration": 93000,
+        "elapsed_time": 23999.396535044994
+    },
+    {
+        "loss/generator": -49.345821380615234,
+        "loss/critic": -150.66778564453125,
+        "FID": 273.29415327003846,
+        "epoch": 156,
+        "iteration": 93600,
+        "elapsed_time": 24120.635885443
+    },
+    {
+        "loss/generator": -49.54035949707031,
+        "loss/critic": -150.29974365234375,
+        "FID": 273.977500903812,
+        "epoch": 157,
+        "iteration": 94200,
+        "elapsed_time": 24243.365657634
+    },
+    {
+        "loss/generator": -52.32249069213867,
+        "loss/critic": -150.3480224609375,
+        "FID": 272.62226314673194,
+        "epoch": 158,
+        "iteration": 94800,
+        "elapsed_time": 24365.890986153994
+    },
+    {
+        "loss/generator": -51.671791076660156,
+        "loss/critic": -150.60360717773438,
+        "FID": 270.22538877058923,
+        "epoch": 159,
+        "iteration": 95400,
+        "elapsed_time": 24487.404126696994
+    },
+    {
+        "loss/generator": -48.830814361572266,
+        "loss/critic": -150.3217315673828,
+        "FID": 269.77709768049453,
+        "epoch": 160,
+        "iteration": 96000,
+        "elapsed_time": 24610.812307094995
+    },
+    {
+        "loss/generator": -50.51704406738281,
+        "loss/critic": -150.1854705810547,
+        "FID": 272.6283498245372,
+        "epoch": 161,
+        "iteration": 96600,
+        "elapsed_time": 24733.244991914995
+    },
+    {
+        "loss/generator": -45.390445709228516,
+        "loss/critic": -149.8568115234375,
+        "FID": 271.3494277610024,
+        "epoch": 162,
+        "iteration": 97200,
+        "elapsed_time": 24856.303430734995
+    },
+    {
+        "loss/generator": -46.94999694824219,
+        "loss/critic": -149.69775390625,
+        "FID": 272.26429388636615,
+        "epoch": 163,
+        "iteration": 97800,
+        "elapsed_time": 24978.869170259
+    },
+    {
+        "loss/generator": -45.75175857543945,
+        "loss/critic": -150.01934814453125,
+        "FID": 272.5004990333786,
+        "epoch": 164,
+        "iteration": 98400,
+        "elapsed_time": 25103.21203114
+    },
+    {
+        "loss/generator": -45.14330291748047,
+        "loss/critic": -149.75819396972656,
+        "FID": 271.60791146914477,
+        "epoch": 165,
+        "iteration": 99000,
+        "elapsed_time": 25225.210440635994
+    },
+    {
+        "loss/generator": -46.82997131347656,
+        "loss/critic": -150.0424041748047,
+        "FID": 271.6777487689469,
+        "epoch": 166,
+        "iteration": 99600,
+        "elapsed_time": 25346.575116534994
+    },
+    {
+        "loss/generator": -42.04926681518555,
+        "loss/critic": -149.8939208984375,
+        "FID": 271.3156024587616,
+        "epoch": 167,
+        "iteration": 100200,
+        "elapsed_time": 25469.881947900998
+    },
+    {
+        "loss/generator": -43.51699447631836,
+        "loss/critic": -150.02862548828125,
+        "FID": 270.099776153462,
+        "epoch": 168,
+        "iteration": 100800,
+        "elapsed_time": 25595.854315229997
+    },
+    {
+        "loss/generator": -41.48551559448242,
+        "loss/critic": -149.9857940673828,
+        "FID": 267.40415651446756,
+        "epoch": 169,
+        "iteration": 101400,
+        "elapsed_time": 25719.099852508996
+    },
+    {
+        "loss/generator": -40.41049575805664,
+        "loss/critic": -149.56094360351562,
+        "FID": 271.24248546053246,
+        "epoch": 170,
+        "iteration": 102000,
+        "elapsed_time": 25843.189838481994
+    },
+    {
+        "loss/generator": -41.22581100463867,
+        "loss/critic": -149.50918579101562,
+        "FID": 269.9446700644552,
+        "epoch": 171,
+        "iteration": 102600,
+        "elapsed_time": 25967.049759730995
+    },
+    {
+        "loss/generator": -38.8825569152832,
+        "loss/critic": -149.41297912597656,
+        "FID": 272.09540206163814,
+        "epoch": 172,
+        "iteration": 103200,
+        "elapsed_time": 26088.180198696995
+    },
+    {
+        "loss/generator": -40.202064514160156,
+        "loss/critic": -149.35533142089844,
+        "FID": 271.6074180454567,
+        "epoch": 173,
+        "iteration": 103800,
+        "elapsed_time": 26209.379128116998
+    },
+    {
+        "loss/generator": -38.91865158081055,
+        "loss/critic": -149.22618103027344,
+        "FID": 269.8518956892217,
+        "epoch": 174,
+        "iteration": 104400,
+        "elapsed_time": 26331.181747389994
+    },
+    {
+        "loss/generator": -39.681766510009766,
+        "loss/critic": -149.1591796875,
+        "FID": 270.8357932738687,
+        "epoch": 175,
+        "iteration": 105000,
+        "elapsed_time": 26452.359019994
+    },
+    {
+        "loss/generator": -38.14017105102539,
+        "loss/critic": -148.97389221191406,
+        "FID": 270.4410387024201,
+        "epoch": 176,
+        "iteration": 105600,
+        "elapsed_time": 26573.803556146995
+    },
+    {
+        "loss/generator": -33.660743713378906,
+        "loss/critic": -148.70472717285156,
+        "FID": 274.05375498552513,
+        "epoch": 177,
+        "iteration": 106200,
+        "elapsed_time": 26694.521735980998
+    },
+    {
+        "loss/generator": -36.13240051269531,
+        "loss/critic": -148.70774841308594,
+        "FID": 271.18676712107106,
+        "epoch": 178,
+        "iteration": 106800,
+        "elapsed_time": 26815.731620881998
+    },
+    {
+        "loss/generator": -33.57736587524414,
+        "loss/critic": -148.46926879882812,
+        "FID": 270.8738883124519,
+        "epoch": 179,
+        "iteration": 107400,
+        "elapsed_time": 26937.646946991998
+    },
+    {
+        "loss/generator": -34.841556549072266,
+        "loss/critic": -148.4784698486328,
+        "FID": 269.2129754185555,
+        "epoch": 180,
+        "iteration": 108000,
+        "elapsed_time": 27059.998148034996
+    },
+    {
+        "loss/generator": -32.007625579833984,
+        "loss/critic": -148.1024169921875,
+        "FID": 271.0894797424551,
+        "epoch": 181,
+        "iteration": 108600,
+        "elapsed_time": 27181.972843145995
+    },
+    {
+        "loss/generator": -29.39563751220703,
+        "loss/critic": -148.51905822753906,
+        "FID": 269.5892698729303,
+        "epoch": 182,
+        "iteration": 109200,
+        "elapsed_time": 27303.656563863995
+    },
+    {
+        "loss/generator": -33.154502868652344,
+        "loss/critic": -148.1916961669922,
+        "FID": 269.96336830828443,
+        "epoch": 183,
+        "iteration": 109800,
+        "elapsed_time": 27424.308797195998
+    },
+    {
+        "loss/generator": -30.177175521850586,
+        "loss/critic": -147.9752655029297,
+        "FID": 271.72620252395865,
+        "epoch": 184,
+        "iteration": 110400,
+        "elapsed_time": 27545.855190322
+    },
+    {
+        "loss/generator": -29.95454216003418,
+        "loss/critic": -147.8867645263672,
+        "FID": 269.5556647774432,
+        "epoch": 185,
+        "iteration": 111000,
+        "elapsed_time": 27669.014128443
+    },
+    {
+        "loss/generator": -27.70635223388672,
+        "loss/critic": -147.92254638671875,
+        "FID": 268.42184647087106,
+        "epoch": 186,
+        "iteration": 111600,
+        "elapsed_time": 27792.157604752996
+    },
+    {
+        "loss/generator": -25.79922866821289,
+        "loss/critic": -147.85128784179688,
+        "FID": 268.42597531266773,
+        "epoch": 187,
+        "iteration": 112200,
+        "elapsed_time": 27914.351938066997
+    },
+    {
+        "loss/generator": -24.44569206237793,
+        "loss/critic": -147.80819702148438,
+        "FID": 271.455723350394,
+        "epoch": 188,
+        "iteration": 112800,
+        "elapsed_time": 28036.634996090994
+    },
+    {
+        "loss/generator": -22.809297561645508,
+        "loss/critic": -147.7285614013672,
+        "FID": 269.28257356311065,
+        "epoch": 189,
+        "iteration": 113400,
+        "elapsed_time": 28159.452456551
+    },
+    {
+        "loss/generator": -25.017908096313477,
+        "loss/critic": -147.94326782226562,
+        "FID": 269.60563223536275,
+        "epoch": 190,
+        "iteration": 114000,
+        "elapsed_time": 28282.813464549996
+    },
+    {
+        "loss/generator": -21.85491180419922,
+        "loss/critic": -147.93675231933594,
+        "FID": 269.0538637090369,
+        "epoch": 191,
+        "iteration": 114600,
+        "elapsed_time": 28407.596459101995
+    },
+    {
+        "loss/generator": -23.05318832397461,
+        "loss/critic": -147.6566162109375,
+        "FID": 268.23076395370964,
+        "epoch": 192,
+        "iteration": 115200,
+        "elapsed_time": 28532.599563425996
+    },
+    {
+        "loss/generator": -21.951114654541016,
+        "loss/critic": -148.08042907714844,
+        "FID": 269.34109669578015,
+        "epoch": 193,
+        "iteration": 115800,
+        "elapsed_time": 28656.188085523994
+    },
+    {
+        "loss/generator": -22.75897789001465,
+        "loss/critic": -147.7906951904297,
+        "FID": 269.9597500047528,
+        "epoch": 194,
+        "iteration": 116400,
+        "elapsed_time": 28777.004904356
+    },
+    {
+        "loss/generator": -21.826038360595703,
+        "loss/critic": -147.86024475097656,
+        "FID": 269.5467174309198,
+        "epoch": 195,
+        "iteration": 117000,
+        "elapsed_time": 28897.677779809994
+    },
+    {
+        "loss/generator": -21.20108413696289,
+        "loss/critic": -147.6957550048828,
+        "FID": 271.71077519081757,
+        "epoch": 196,
+        "iteration": 117600,
+        "elapsed_time": 29019.014451835996
+    },
+    {
+        "loss/generator": -21.13573455810547,
+        "loss/critic": -147.5863494873047,
+        "FID": 269.659310778976,
+        "epoch": 197,
+        "iteration": 118200,
+        "elapsed_time": 29141.51605005
+    },
+    {
+        "loss/generator": -25.057281494140625,
+        "loss/critic": -147.07810974121094,
+        "FID": 268.08340795983054,
+        "epoch": 198,
+        "iteration": 118800,
+        "elapsed_time": 29263.429177817
+    },
+    {
+        "loss/generator": -20.739294052124023,
+        "loss/critic": -147.02308654785156,
+        "FID": 271.69509971719515,
+        "epoch": 199,
+        "iteration": 119400,
+        "elapsed_time": 29385.355773047
+    },
+    {
+        "loss/generator": -19.07868194580078,
+        "loss/critic": -147.06736755371094,
+        "FID": 271.1438853564727,
+        "epoch": 200,
+        "iteration": 120000,
+        "elapsed_time": 29507.407036954995
+    }
+]
